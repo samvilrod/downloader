@@ -15,6 +15,9 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
+    <feature name="JJzip">
+        <param name="android-package" value="com.jjdltc.cordova.plugin.zip.JJzip" />
+    </feature>
     <name>downloader</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
